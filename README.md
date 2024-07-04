@@ -1,7 +1,7 @@
 # movies_recomender
 
 this recomender system create by using "TMDB 5000 Movie Dataset" avaialble on kaggle.
-
+dataset link https://www.kaggle.com/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv
 # All steps of this jurney
 
 1. data files download
